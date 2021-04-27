@@ -19,7 +19,7 @@ System.out.println("80Km/hr");
 	}
 }
 	class pulsar extends bike {
-	void speed (int a ){
+	void speed (int a ){  // int a is providing the sub class to be able to take the value for Super
 	System.out.println("90Km/hr");
 	}
 	void color(){
