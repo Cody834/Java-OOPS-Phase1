@@ -16,7 +16,7 @@ public static void main(String args) {
 	veh3.Vehicle="Bmw M6";
 	veh3.Type="Family/Sports";
 	veh3.Year="2019";
-	veh3.price="750 000.00";
+	veh3.price="750 000.00"; // Not happy that is not the real price please fix
 	veh3.display();
 }
 }
